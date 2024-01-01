@@ -1,0 +1,212 @@
+html {
+  font-size: 100%;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: inherit;
+  box-sizing: inherit;
+}
+
+body {
+  position: relative;
+  font-family: Spartan;
+  background-repeat: no-repeat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 1.5625rem;
+  padding: 0;
+  margin: 0;
+  background: #070724;
+}
+.login {
+  display: flex;
+  margin-right: 41px;
+  justify-content: end;
+  align-items: flex-start;
+}
+
+.carer {
+  margin-top: 25px;
+  margin-right: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+.butnlar {
+  margin-top: -70px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  width: 75px;
+  height: 30px;
+  background-color: orangered;
+}
+
+.heading {
+  margin-top: 5px;
+  margin-left: 15px;
+}
+
+.otish {
+  margin-top: -70px;
+  background-color: lightslategray;
+  width: 75px;
+  height: 30px;
+}
+
+.eading {
+  position: relative;
+  font-size: 15px;
+  margin-top: 0;
+  margin-left: 4px;
+}
+
+.otis {
+  position: absolute;
+  margin-left: -42px;
+  font-size: 15px;
+  margin-top: 11px;
+}
+
+form {
+  height: 600px;
+  width: 400px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 350px;
+  left: 50%;
+  border-radius: 10px;
+  backdrop-filter: blur(10px);
+  border: 2px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 0 40px rgba(8, 7, 16, 0.6);
+  padding: 50px 35px;
+}
+form * {
+  font-family: "Poppins", sans-serif;
+  color: #ffffff;
+  letter-spacing: 0.5px;
+  outline: none;
+  border: none;
+}
+form h3 {
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 42px;
+  text-align: center;
+}
+
+label {
+  display: block;
+  margin-top: 30px;
+  font-size: 16px;
+  font-weight: 500;
+}
+input {
+  display: block;
+  height: 50px;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.07);
+  border-radius: 3px;
+  padding: 0 10px;
+  margin-top: 8px;
+  font-size: 14px;
+  font-weight: 300;
+}
+::placeholder {
+  color: #e5e5e5;
+}
+button {
+  margin-top: 50px;
+  width: 100%;
+  background-color: orangered;
+  color: #080710;
+  padding: 15px 0;
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.social div {
+  width: 300px;
+  border-radius: 3px;
+  padding: 5px 10px 10px 5px;
+
+  color: #eaf0fb;
+  text-align: center;
+}
+.fb:hover{
+  background-color: red;
+}
+.go:hover {
+  background-color: blue;
+}
+.fb {
+  background-color: blue;
+  margin-left: 10px;
+  margin-top: 24px;
+}
+.go {
+  background: red;
+  margin-top: 14px;
+  margin-left: 10px;
+}
+.social i {
+  margin-right: 4px;
+}
+
+.li {
+  list-style: circle;
+}
+
+li:hover {
+  list-style: disc;
+}
+
+.textlar {
+  font-size: 14px;
+  display: flex;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.hh2 {
+  margin-left: 30px;
+}
+
+.linya {
+  margin-top: -15px;
+  width: 45px;
+  height: 3px;
+  background-color: orangered;
+}
+
+
+.planets__text {
+  color: #fff;
+  font-family: Spartan;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 25px; /* 227.273% */
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.planet__links {
+  display: flex;
+  margin-right: 41px;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 33px;
+}
+
+body ul {
+  list-style: none;
+}

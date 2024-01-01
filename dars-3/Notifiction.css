@@ -1,0 +1,196 @@
+html {
+  font-size: 100%;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: inherit;
+  box-sizing: inherit;
+}
+
+body {
+  position: relative;
+  font-family: Spartan;
+  background-repeat: no-repeat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 1.5625rem;
+  padding: 0;
+  margin: 0;
+  background: #070724;
+}
+
+.logo {
+  width: 33%;
+  position: relative;
+}
+
+.imglar {
+  margin-left: 35px;
+  margin-top: -125px;
+  position: absolute;
+  background-color: whitesmoke;
+  width: 200px;
+  height: 215px;
+  border-radius: 115px;
+}
+
+.profillogo {
+  width: 200px;
+  height: 215px;
+  border-radius: 100px;
+}
+
+.planets__text {
+  position: absolute;
+  margin-top: -125px;
+  color: #fff;
+  font-family: Spartan;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 25px; /* 227.273% */
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.planet__links {
+  display: flex;
+  margin-right: 45px;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 110px;
+}
+
+body ul {
+  list-style: none;
+}
+
+.icon {
+  position: absolute;
+  margin-top: 26px;
+  margin-left: -35px;
+}
+
+.textlar{
+    margin-left: 25px;
+    gap: 20px;
+    letter-spacing: 1px;
+    margin-top: -475px;
+    font-size: 14px;
+    display: flex;
+    color: #fff;
+    justify-content: start;
+    align-items: flex-start;
+}
+
+.textla{
+    margin-top: -12px;
+    margin-left: 60px;
+    gap: 90px;
+    letter-spacing: 1px;
+    font-size: 14px;
+    display: flex;
+    color: #fff;
+    justify-content: start;
+    align-items: flex-start;
+}
+
+.chziq{
+    background-color: aliceblue;
+    width: 300px;
+    height: 2px;
+}
+
+.heading{
+    position: relative;
+    color: #fff;
+    margin-left: 30px;
+}
+
+.extlar{
+    display: flex;
+    justify-content: center;
+    align-self: start;
+    
+}
+
+.ism {
+    color: white;
+    margin-left: -480px;
+    margin-top: -24px;
+}
+
+
+
+
+.tlar{
+    display: flex;
+    justify-content: center;
+    align-self: start;
+}
+
+.gggt{
+    display: flex;
+    justify-content: center;
+    align-self: start;
+    margin-left: -100px;
+    color: #808397;
+font-family: Barlow;
+font-size: 15px;
+font-style: normal;
+font-weight: 600;
+line-height: 30px; /* 166.667% */
+letter-spacing: -0.129px;
+}
+
+.heart{
+    position: absolute;
+    margin-top: 265px;
+    margin-left: -591px;
+    color: white;
+}
+.heart:hover{
+    background: url(img/heart-fill.png);
+    color: red;
+}
+
+.book{
+    position: relative;
+    margin-top: -105px;
+   margin-left: 440px;
+    height: 400px;
+}
+
+.sos{
+    margin-top: 25px;
+    margin-right: 14px;
+    display: flex;
+    justify-content: end;
+    align-items: flex-start;
+}
+
+.sdr{
+  
+    width: 150px;
+    height: 50px;
+    background-color: orangered;
+    position: relative;
+}
+
+.sll{
+    position: absolute;
+    margin-top: 10px;
+    color: #fff;
+    margin-left: 30px;
+}
+
+.setti{
+margin-top: 10px;
+margin-left: 5px;
+}

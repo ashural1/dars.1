@@ -1,0 +1,237 @@
+html {
+  font-size: 100%;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: inherit;
+  box-sizing: inherit;
+}
+
+body {
+  position: relative;
+  font-family: Spartan;
+  background-repeat: no-repeat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 1.5625rem;
+  padding: 0;
+  margin: 0;
+  background: white;
+}
+
+.card {
+  height: inherit;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.heading {
+  color: black;
+  margin-left: 25px;
+}
+
+.imff {
+  margin-left: 150px;
+}
+
+.line {
+  position: relative;
+  margin-top: -70px;
+  margin-left: 370px;
+  width: 5px;
+  height: 744px;
+  background-color: dimgray;
+}
+
+.limm {
+  margin-top: 15px;
+  position: absolute;
+  width: 100%;
+  height: 5px;
+  background-color: dimgray;
+}
+
+.mmm {
+  position: absolute;
+  margin-top: 149px;
+  width: 375px;
+  height: 5px;
+  background-color: dimgray;
+}
+
+.mmn {
+  position: absolute;
+  margin-top: 280px;
+  width: 375px;
+  height: 5px;
+  background-color: dimgray;
+}
+
+.mnn {
+  position: absolute;
+  margin-top: 435px;
+  width: 375px;
+  height: 5px;
+  background-color: dimgray;
+}
+
+.diiiv {
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 50px;
+  display: flex;
+  justify-content: end;
+  align-items: flex-start;
+}
+
+.sert {
+  position: relative;
+}
+
+.hh22 {
+  margin-top: 150px;
+}
+
+.hhh22 {
+  margin-top: 280px;
+}
+
+.hhg22 {
+  margin-top: 470px;
+}
+
+.oval {
+  width: 100px;
+  height: 100px;
+  border-radius: 110px;
+}
+
+.hlar {
+  margin-top: -5px;
+}
+
+.font {
+  opacity: 0.5;
+  margin-left: -25px;
+  font-size: 10px;
+}
+
+.ismlaar {
+  margin-top: 37px;
+  margin-left: -200px;
+}
+
+.ismlaa {
+  margin-left: -200px;
+  margin-top: 180px;
+}
+
+.ismllsaa {
+  margin-left: -200px;
+  margin-top: 310px;
+}
+
+.issmlaa {
+  margin-left: -200px;
+  margin-top: 500px;
+}
+
+.chats {
+  position: absolute;
+  margin-top: 200px;
+  margin-left: 120px;
+  width: 270px;
+  background-color: dimgray;
+  border-radius: 15px;
+}
+
+.litmm {
+  margin-top: -287px;
+  margin-right: 1115px;
+  width: 100%;
+  height: 5px;
+  background-color: dimgray;
+}
+
+.loree {
+  margin-top: 3px;
+  margin-left: 6px;
+  font-size: 10px;
+}
+
+.ift {
+  position: absolute;
+  margin-top: 68px;
+  margin-left: -53px;
+  width: 51px;
+  height: 50px;
+  border-radius: 40px;
+}
+
+.chaers {
+  position: absolute;
+  margin-top: 410px;
+  margin-left: 715px;
+  width: 270px;
+  background-color: orangered;
+  border-radius: 15px;
+}
+
+.iift {
+  position: absolute;
+  margin-left: 279px;
+  margin-top: -50px;
+  width: 51px;
+  height: 50px;
+  border-radius: 40px;
+}
+
+.wert {
+  position: absolute;
+  margin-top: 520px;
+  margin-left: 120px;
+  width: 270px;
+  background-color: dimgray;
+  border-radius: 15px;
+}
+
+.ifft {
+  margin-top: -40px;
+  margin-left: -56px;
+  position: absolute;
+  width: 51px;
+  height: 50px;
+  border-radius: 40px;
+}
+
+.swety {
+  position: absolute;
+  margin-left: 390px;
+  width: 51px;
+  height: 50px;
+  border-radius: 40px;
+}
+
+.texter {
+  font-size: 15px;
+  margin-top: 25px;
+  margin-left: 450px;
+}
+
+.werty {
+  height: inherit;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.qwert {
+  opacity: 0.5;
+}
